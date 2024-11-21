@@ -1,50 +1,7 @@
 Overview
 This project involves creating a dynamic website to explore and analyze data related to track and road cycling at the London Olympics. The project consists of four tasks, with the first three focused on PHP scripts interacting with a MySQL database, and the fourth task allowing for an interactive and dynamic comparison of countries based on various cycling-related metrics.
 
-Table of Contents
-Task 1: BMI Table
-Task 2: Cyclist List
-Task 3: Cyclist Details
-Task 4: Country Comparison
-Database Details
-Submission Instructions
-Marking Criteria
-Task 1: BMI Table (8%)
-Description: A PHP script (bmi.php) generates an HTML table of BMI values based on user input for weight and height ranges.
-Input: min_weight, max_weight (in kg), min_height, max_height (in cm).
-Output: A table displaying BMI values calculated using the formula:
-𝐵
-𝑀
-𝐼
-=
-𝑤
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
- 
-(
-𝑘
-𝑔
-)
-ℎ
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
- 
-(
-𝑚
-)
-2
-BMI= 
-height(m) 
-2
- 
-weight(kg)
-​
+
  
 Requirements: The table increments weight and height in steps of 5.
 Task 2: Cyclist List (15%)
